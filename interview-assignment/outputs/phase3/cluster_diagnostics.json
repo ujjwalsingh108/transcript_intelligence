@@ -1,0 +1,339 @@
+{
+  "k": 9,
+  "vocab_size": 1675,
+  "clusters": {
+    "0": {
+      "cluster_id": 0,
+      "size": 32,
+      "top_terms": [
+        "renewal",
+        "aegis",
+        "maria",
+        "detect",
+        "comply",
+        "outage",
+        "santos",
+        "compliance",
+        "soc",
+        "julia",
+        "kevin",
+        "aisha"
+      ],
+      "sample_titles": [
+        "Aegis / Cobalt Software - Q2 Planning",
+        "Aegis / Atlas Precision - Contract Discussion",
+        "Aegis / Quantum Edge - Renewal Concerns",
+        "URGENT: Blackridge Investments - Complete Loss of Threat Visibility",
+        "Support Case #5889 - Ridgeline Logistics Detect Latency Issues"
+      ],
+      "assisted_name": "Support Troubleshooting & Case Resolution",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 2,
+        "Support Troubleshooting & Case Resolution": 3,
+        "Compliance & Audit Readiness": 2,
+        "Renewal, Pricing & Commercial Negotiation": 2,
+        "Identity, Access & Provisioning": 0,
+        "Product Roadmap & Engineering Execution": 1,
+        "Security Monitoring & Threat Detection": 2,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "1": {
+      "cluster_id": 1,
+      "size": 6,
+      "top_terms": [
+        "mfa",
+        "victor",
+        "alicia",
+        "identity",
+        "session",
+        "trust",
+        "paula",
+        "summit",
+        "role",
+        "management",
+        "okta",
+        "sso"
+      ],
+      "sample_titles": [
+        "Identity Team - Q2 Roadmap",
+        "Aegis / Summit Trust - Platform Concerns Discussion",
+        "Aegis / Frostbyte AI - Product Feedback",
+        "Support Case #6147 - Summit Trust Detect Alert Delays",
+        "Aegis / Frostbyte AI - Identity Module Setup"
+      ],
+      "assisted_name": "Identity, Access & Provisioning",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 0,
+        "Support Troubleshooting & Case Resolution": 2,
+        "Compliance & Audit Readiness": 0,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 3,
+        "Product Roadmap & Engineering Execution": 2,
+        "Security Monitoring & Threat Detection": 2,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "2": {
+      "cluster_id": 2,
+      "size": 13,
+      "top_terms": [
+        "sarah",
+        "chen",
+        "derek",
+        "overage",
+        "case",
+        "aegis",
+        "sync",
+        "identity",
+        "support",
+        "billing",
+        "account",
+        "marcus"
+      ],
+      "sample_titles": [
+        "Support Case #9279 - Summit Trust Billing Inquiry",
+        "Product Sync - Identity Roadmap",
+        "Support Case #8179 - Clearwater Medical Overage Charges Dispute",
+        "Aegis / Crestline Wealth - Identity Module Deployment",
+        "Support Case #3546 - Meridian Capital SCIM Provisioning Request"
+      ],
+      "assisted_name": "Identity, Access & Provisioning",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 0,
+        "Support Troubleshooting & Case Resolution": 2,
+        "Compliance & Audit Readiness": 0,
+        "Renewal, Pricing & Commercial Negotiation": 2,
+        "Identity, Access & Provisioning": 3,
+        "Product Roadmap & Engineering Execution": 1,
+        "Security Monitoring & Threat Detection": 0,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "3": {
+      "cluster_id": 3,
+      "size": 8,
+      "top_terms": [
+        "vanessa",
+        "backup",
+        "cloudprime",
+        "aegis",
+        "cruz",
+        "raymond",
+        "elena",
+        "yuki",
+        "certificate",
+        "onboarding",
+        "cheng",
+        "hybrid"
+      ],
+      "sample_titles": [
+        "Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector",
+        "Aegis / Harborview Banking - Threat Detection Tuning",
+        "Aegis / Coastal Living Co - Protect Module Expansion",
+        "Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug",
+        "Support Case #3677 - Coastal Living Co MFA Token Failures"
+      ],
+      "assisted_name": "Support Troubleshooting & Case Resolution",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 1,
+        "Support Troubleshooting & Case Resolution": 3,
+        "Compliance & Audit Readiness": 0,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 1,
+        "Product Roadmap & Engineering Execution": 0,
+        "Security Monitoring & Threat Detection": 3,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "4": {
+      "cluster_id": 4,
+      "size": 5,
+      "top_terms": [
+        "hipaa",
+        "thomas",
+        "iso",
+        "launch",
+        "comply",
+        "megan",
+        "report",
+        "day",
+        "bugs",
+        "thursday",
+        "ajay",
+        "natalie"
+      ],
+      "sample_titles": [
+        "Aegis / Redwood Clinical - ISO 27001 Preparation",
+        "Comply v2 - Launch Readiness Review",
+        "Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue",
+        "Aegis / Clearwater Medical - Comply v2 Deployment Kickoff",
+        "Comply v2 - Launch Day Checklist"
+      ],
+      "assisted_name": "Support Troubleshooting & Case Resolution",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 0,
+        "Support Troubleshooting & Case Resolution": 3,
+        "Compliance & Audit Readiness": 2,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 0,
+        "Product Roadmap & Engineering Execution": 1,
+        "Security Monitoring & Threat Detection": 0,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "5": {
+      "cluster_id": 5,
+      "size": 10,
+      "top_terms": [
+        "sprint",
+        "ravi",
+        "breaker",
+        "circuit",
+        "chris",
+        "tyler",
+        "sofia",
+        "team",
+        "nina",
+        "pipeline",
+        "lee",
+        "ingestion"
+      ],
+      "sample_titles": [
+        "Weekly Engineering Standup",
+        "Aegis / Meridian Capital - Service Reliability Discussion",
+        "Identity Team - Sprint Retro",
+        "Weekly Engineering Standup",
+        "Detect Team - Sprint Planning"
+      ],
+      "assisted_name": "Product Roadmap & Engineering Execution",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 0,
+        "Support Troubleshooting & Case Resolution": 0,
+        "Compliance & Audit Readiness": 0,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 1,
+        "Product Roadmap & Engineering Execution": 5,
+        "Security Monitoring & Threat Detection": 1,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 2
+      }
+    },
+    "6": {
+      "cluster_id": 6,
+      "size": 6,
+      "top_terms": [
+        "backup",
+        "performance",
+        "david",
+        "restore",
+        "scheduler",
+        "protect",
+        "jason",
+        "minutes",
+        "kendra",
+        "job",
+        "kim",
+        "ananya"
+      ],
+      "sample_titles": [
+        "Support Case #6977 - Brightpath Commerce Slow Backup Performance",
+        "Support Case #1514 - Meridian Capital Granular Restore Request",
+        "Support Case #9856 - Silverline Brands Backup Window Exceeded",
+        "Protect Team - Quarterly Planning",
+        "Comply v2 - Design Review"
+      ],
+      "assisted_name": "Support Troubleshooting & Case Resolution",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 0,
+        "Support Troubleshooting & Case Resolution": 3,
+        "Compliance & Audit Readiness": 0,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 0,
+        "Product Roadmap & Engineering Execution": 2,
+        "Security Monitoring & Threat Detection": 0,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 1
+      }
+    },
+    "7": {
+      "cluster_id": 7,
+      "size": 12,
+      "top_terms": [
+        "diana",
+        "megan",
+        "customer",
+        "customers",
+        "raj",
+        "comply",
+        "control",
+        "feature",
+        "internal",
+        "april",
+        "adoption",
+        "outage"
+      ],
+      "sample_titles": [
+        "Detect Outage - Remediation Plan Review",
+        "SOC 2 Audit Preparation - Internal",
+        "Detect Outage - Customer Impact Assessment",
+        "Detect Outage - Post-Incident Review",
+        "Detect Outage - Escalation Bridge"
+      ],
+      "assisted_name": "Incident Response & Outage Management",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 4,
+        "Support Troubleshooting & Case Resolution": 0,
+        "Compliance & Audit Readiness": 2,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 0,
+        "Product Roadmap & Engineering Execution": 0,
+        "Security Monitoring & Threat Detection": 1,
+        "Customer Retention & Escalation Risk": 2,
+        "Platform Reliability & Performance": 0
+      }
+    },
+    "8": {
+      "cluster_id": 8,
+      "size": 8,
+      "top_terms": [
+        "competitive",
+        "outage",
+        "james",
+        "damien",
+        "tom",
+        "jordan",
+        "hartfield",
+        "mitchell",
+        "sentinelshield",
+        "kendra",
+        "loss",
+        "bradley"
+      ],
+      "sample_titles": [
+        "Competitive Threat Assessment - Post Outage",
+        "Aegis / Stratos Cloud - Audit Preparation",
+        "INCIDENT: Detect Pipeline Failure - War Room",
+        "Win/Loss Analysis - Q1",
+        "Support Case #7537 - Forge Industries Detect Recovery Confirmation"
+      ],
+      "assisted_name": "Incident Response & Outage Management",
+      "name_match_scores": {
+        "Incident Response & Outage Management": 4,
+        "Support Troubleshooting & Case Resolution": 2,
+        "Compliance & Audit Readiness": 1,
+        "Renewal, Pricing & Commercial Negotiation": 0,
+        "Identity, Access & Provisioning": 0,
+        "Product Roadmap & Engineering Execution": 0,
+        "Security Monitoring & Threat Detection": 2,
+        "Customer Retention & Escalation Risk": 0,
+        "Platform Reliability & Performance": 1
+      }
+    }
+  }
+}

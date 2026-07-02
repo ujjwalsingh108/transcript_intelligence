@@ -1,0 +1,23 @@
+{
+  "topics": [
+    "Compliance & Audit Readiness",
+    "Identity, Access & Provisioning",
+    "Incident Response & Outage Management",
+    "Platform Reliability & Performance",
+    "Product Roadmap & Engineering Execution",
+    "Renewal, Pricing & Commercial Negotiation",
+    "Security Monitoring & Threat Detection",
+    "Support Troubleshooting & Case Resolution"
+  ],
+  "topic_count": 8,
+  "topic_sizes": {
+    "Incident Response & Outage Management": 20,
+    "Support Troubleshooting & Case Resolution": 33,
+    "Product Roadmap & Engineering Execution": 3,
+    "Compliance & Audit Readiness": 27,
+    "Renewal, Pricing & Commercial Negotiation": 6,
+    "Identity, Access & Provisioning": 8,
+    "Security Monitoring & Threat Detection": 1,
+    "Platform Reliability & Performance": 2
+  }
+}
