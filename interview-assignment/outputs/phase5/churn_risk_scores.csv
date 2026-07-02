@@ -1,0 +1,101 @@
+meeting_id,title,call_type,final_topic,sentiment_pressure,renewal_signal,urgency_signal,incident_signal,keymoment_signal,summary_penalty,churn_risk_score,risk_band
+01KQ7BF0D56037FF89DC89B6,Support Case #3266 - Trailhead Marketplace Detect Alerts Not Firing,support,Support Troubleshooting & Case Resolution,0.8195,1.0,1.0,1.0,1.0,0.8333,93.58,critical
+01KQ46A9DE0AECB006D897A0,Detect Outage - Escalation Bridge,ambiguous,Incident Response & Outage Management,0.8049,1.0,1.0,1.0,1.0,0.6667,92.15,critical
+01KQ88B8EAEAA819C26CCBE7,ESCALATION: Northstar Pharma - Detect Outage Impact on Compliance,external,Compliance & Audit Readiness,0.8293,1.0,1.0,1.0,1.0,0.5417,92.13,critical
+01KQEDB92E33CF9945A7F71B,URGENT: Cobalt Software - Aegis Detect Dashboard Down,external,Incident Response & Outage Management,0.7702,1.0,1.0,1.0,1.0,0.6667,91.11,critical
+01KQ2331EFD78BF3B1CAB747,Detect Outage - Customer Impact Assessment,ambiguous,Incident Response & Outage Management,0.7636,1.0,1.0,1.0,1.0,0.6667,90.91,critical
+01KQ2D93184912F0147315E7,URGENT: Blackridge Investments - Complete Loss of Threat Visibility,external,Incident Response & Outage Management,0.7439,1.0,1.0,1.0,1.0,0.75,90.82,critical
+01KQ351E141926AB7CAB668D,Aegis / Northstar Pharma - Urgent: Detect Outage Impact,external,Incident Response & Outage Management,0.6562,1.0,1.0,1.0,1.0,0.5417,86.94,critical
+01KQ8C5A044F54EE1774D53C,Aegis / Helix Data - Post-Incident Review,external,Incident Response & Outage Management,0.65,1.0,1.0,1.0,1.0,0.4583,86.25,critical
+01KQ5A966832A146DA4B7D41,Aegis / Summit Trust - Platform Concerns Discussion,external,"Identity, Access & Provisioning",0.649,1.0,1.0,1.0,1.0,0.4167,85.97,critical
+01KQC166F678CBA584AAFF8B,Support Case #7615 - Crestline Wealth Group Policy Sync Delay,support,Support Troubleshooting & Case Resolution,0.6026,1.0,1.0,1.0,1.0,0.4167,84.58,critical
+01KQ4529010F423FD9DB40BD,Win/Loss Analysis - Q1,ambiguous,Incident Response & Outage Management,0.75,1.0,0.0,1.0,1.0,0.4167,73.0,critical
+01KQ38C4101D6774F2F02331,INCIDENT: Detect Pipeline Failure - War Room,ambiguous,Incident Response & Outage Management,0.8589,0.0,1.0,1.0,1.0,0.6667,71.77,critical
+01KQ298F2846EFE59B0D70E2,Competitive Threat Assessment - Post Outage,ambiguous,Incident Response & Outage Management,0.6915,1.0,0.0,1.0,1.0,0.4583,71.5,critical
+01KQEDE682B4A8D67C657CF1,Support Case #3103 - Silverline Brands Detect False Positives After Patch,support,Support Troubleshooting & Case Resolution,0.6341,1.0,0.0,1.0,1.0,0.4167,69.52,high
+01KQ6A5CEAAFFBE3B0099E75,Support Case #6539 - Steelpoint Manufacturing LDAP Sync Failures,support,Support Troubleshooting & Case Resolution,0.6136,1.0,0.0,1.0,1.0,0.4167,68.91,high
+01KQ56D878454E5783DC6D94,Support Case #3536 - Stratos Cloud LogVault Integration Timeout,support,Support Troubleshooting & Case Resolution,0.6098,1.0,0.0,1.0,1.0,0.4167,68.79,high
+01KQ1DCC80852AE384C898C9,Aegis / Quantum Edge - Renewal Concerns,external,Incident Response & Outage Management,0.5909,1.0,0.0,1.0,1.0,0.4167,68.23,high
+01KQ2217B066855A3B7814CB,Aegis / Meridian Capital - Service Reliability Discussion,external,Incident Response & Outage Management,0.5833,1.0,0.0,1.0,1.0,0.4167,68.0,high
+01KQ7FA71CF70FAFEE4B6251,Aegis / Nova Retail Group - Renewal Discussion,external,Compliance & Audit Readiness,0.6,1.0,0.0,1.0,1.0,0.3333,68.0,high
+01KQ56AA6B60801ABC01AB1C,Support Case #8179 - Clearwater Medical Overage Charges Dispute,support,Support Troubleshooting & Case Resolution,0.725,0.0,1.0,1.0,1.0,0.4167,66.25,high
+01KQA7DFCE1285F52192B34B,Support Case #9856 - Silverline Brands Backup Window Exceeded,support,Support Troubleshooting & Case Resolution,0.7195,0.0,1.0,1.0,1.0,0.4167,66.09,high
+01KQ45F6F7349D0A620571F1,Aegis / Brightpath Commerce - Competitive Evaluation,external,Incident Response & Outage Management,0.5135,1.0,0.0,1.0,1.0,0.3333,65.41,high
+01KQ5EC1665DCFD7A6B62A59,Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug,support,Support Troubleshooting & Case Resolution,0.6756,0.0,1.0,1.0,1.0,0.5,65.27,high
+01KQ45C76AF3AEA6B3EA6697,Aegis / Steelpoint Manufacturing - Contract Review,external,Incident Response & Outage Management,0.5125,1.0,0.0,1.0,1.0,0.25,64.88,high
+01KQ3CE40428CCC5FF433FFC,Detect Outage - Post-Incident Review,internal,Incident Response & Outage Management,0.5122,1.0,0.0,1.0,1.0,0.25,64.87,high
+01KQ9772B2348F500FB09D1E,Support Case #3677 - Coastal Living Co MFA Token Failures,support,Support Troubleshooting & Case Resolution,0.6547,0.0,1.0,1.0,1.0,0.5,64.64,high
+01KQDD5172176D02DB51360A,Support Case #3286 - Vanta Health Systems API Integration Error,support,Support Troubleshooting & Case Resolution,0.6667,0.0,1.0,1.0,1.0,0.4167,64.5,high
+01KQ764171AC27A3A94DC695,Detect Reliability - 30-Day Review,internal,"Identity, Access & Provisioning",0.4906,1.0,0.0,1.0,1.0,0.25,64.22,high
+01KQFEEFFF8E80B0DFD10880,SOC 2 Type II - Final Review,ambiguous,Compliance & Audit Readiness,0.1704,1.0,1.0,1.0,0.5,0.0,64.11,high
+01KQ6CAA850EAFDC48B52846,Aegis / Ironworks Corp - Vendor Comparison Discussion,external,Compliance & Audit Readiness,0.6098,1.0,0.0,1.0,0.5,0.3333,63.29,high
+01KQBBF753B44DE677670E6D,Support Case #6147 - Summit Trust Detect Alert Delays,support,Support Troubleshooting & Case Resolution,0.622,0.0,1.0,1.0,1.0,0.4167,63.16,high
+01KQC1267BEB344076DD7656,Aegis / Ironclad Financial - Account Recovery Check-in,external,Incident Response & Outage Management,0.4405,1.0,0.0,1.0,1.0,0.25,62.71,high
+01KQ0F8AFF3DA34FD4580008,Aegis / Cobalt Software - Q2 Planning,external,Incident Response & Outage Management,0.4642,1.0,0.0,1.0,1.0,0.0,61.93,high
+01KQA0F0BE68E74D66EB4171,Competitive Response Strategy,ambiguous,Platform Reliability & Performance,0.4773,1.0,0.0,1.0,0.5,0.0,57.32,high
+01KQD1270E98A7DFC55ADCF8,Protect Performance - Scalability Concerns,ambiguous,Platform Reliability & Performance,0.7873,0.0,0.0,1.0,1.0,0.5,52.62,medium
+01KQ445B1B5B890316C9E300,Weekly Engineering Standup,internal,Support Troubleshooting & Case Resolution,0.5,0.0,1.0,1.0,0.5,0.0,52.0,medium
+01KQ1DE954A807A5D2653175,Comply v2 - Launch Readiness Review,internal,Compliance & Audit Readiness,0.4783,0.0,1.0,1.0,0.5,0.0,51.35,medium
+01KQ94C2B8B9B4668F3D3491,Support Case #6573 - Ridgeline Logistics Detect Data Gaps,support,Support Troubleshooting & Case Resolution,0.7143,0.0,0.0,1.0,1.0,0.5417,50.68,medium
+01KQADC32D89E2B76B698E84,Support Case #6635 - Nova Retail Group SSO Login Failures,support,Support Troubleshooting & Case Resolution,0.7073,0.0,0.0,1.0,1.0,0.4583,49.97,medium
+01KQ31ED026F745FE2A55CCD,Identity Team - Q2 Roadmap,internal,"Identity, Access & Provisioning",0.2174,1.0,0.0,1.0,0.5,0.0,49.52,medium
+01KQBB7C4D4789DB2F3DA9C2,Support Case #1750 - Vanta Health Systems SIEM Connector Issue,support,Support Troubleshooting & Case Resolution,0.6778,0.0,1.0,0.0,1.0,0.4167,48.83,medium
+01KQ325BDEDEE927D2970775,Support Case #5889 - Ridgeline Logistics Detect Latency Issues,support,Support Troubleshooting & Case Resolution,0.6719,0.0,0.0,1.0,1.0,0.4167,48.66,medium
+01KQ4D71CDFB1045A2458216,Aegis / Bridgeport Health - Renewal Finalization,external,Incident Response & Outage Management,0.17,1.0,0.0,1.0,0.5,0.0,48.1,medium
+01KQ3D8C1EF16C042F31FAFD,Aegis / Trailhead Marketplace - Renewal Confirmation,external,Compliance & Audit Readiness,0.1531,1.0,0.0,1.0,0.5,0.0,47.59,medium
+01KQCA6EA8B603EBB6C9FE34,Aegis / Ridgeline Logistics - Identity Roadmap Discussion,external,"Identity, Access & Provisioning",0.5113,1.0,0.0,0.0,1.0,0.0,47.34,medium
+01KQE110900B8A65D80AE694,Detect Outage - Root Cause Analysis,internal,Incident Response & Outage Management,0.7894,0.0,0.0,1.0,0.5,0.4167,47.18,medium
+01KQ410FB7E434BA3F99EE7D,Aegis / Axiom Labs - Multi-Year Renewal,external,Compliance & Audit Readiness,0.117,1.0,0.0,1.0,0.5,0.0,46.51,medium
+01KQ1A6B7E81B06F4A13B60D,Support Case #6977 - Brightpath Commerce Slow Backup Performance,support,Support Troubleshooting & Case Resolution,0.6285,0.0,1.0,0.0,1.0,0.25,46.36,medium
+01KQ03B0303900521BB089CA,Detect Outage - Remediation Plan Review,ambiguous,Incident Response & Outage Management,0.5582,0.0,0.0,1.0,1.0,0.4167,45.24,medium
+01KQD199788883B6F18C81E8,Aegis / Atlas Precision - Annual Review & Renewal,external,"Identity, Access & Provisioning",0.1585,1.0,0.0,1.0,0.0,0.0,42.76,medium
+01KQD4D9DEBA2D55AC2AA9F5,Aegis / Keystone Health - Renewal Planning,external,"Renewal, Pricing & Commercial Negotiation",0.1396,1.0,0.0,1.0,0.0,0.0,42.19,medium
+01KQAEA50436D047BC39CFC7,Aegis / Crestline Wealth - Account Review,external,"Renewal, Pricing & Commercial Negotiation",0.4902,1.0,0.0,0.0,0.5,0.0,41.71,medium
+01KQ773D68723289E4A98889,Support Case #7572 - Brightpath Commerce Invoice Discrepancy,support,Support Troubleshooting & Case Resolution,0.4884,1.0,0.0,0.0,0.5,0.0,41.65,medium
+01KQ0C1280EDA4E70AAD7C35,Support Case #9279 - Summit Trust Billing Inquiry,support,Support Troubleshooting & Case Resolution,0.4872,1.0,0.0,0.0,0.5,0.0,41.62,medium
+01KQ7F58A2E07B857C24624D,Competitive Landscape Review,internal,"Renewal, Pricing & Commercial Negotiation",0.4861,1.0,0.0,0.0,0.5,0.0,41.58,medium
+01KQ3F90FF9EBC3DB3632514,Identity Team - Sprint Retro,internal,"Identity, Access & Provisioning",0.5122,0.0,0.0,1.0,1.0,0.0,41.37,medium
+01KQ1DC6CA536DE1B31ED8F5,Aegis / Atlas Precision - Contract Discussion,external,"Renewal, Pricing & Commercial Negotiation",0.4768,1.0,0.0,0.0,0.5,0.0,41.3,medium
+01KQADF3D76E82BF8BA19AF2,All Hands - February Wrap,internal,"Renewal, Pricing & Commercial Negotiation",0.475,1.0,0.0,0.0,0.5,0.0,41.25,medium
+01KQFFC0F889AE8CFEE7A00D,Aegis / Blackridge Investments - Renewal Discussion,external,Compliance & Audit Readiness,0.0962,1.0,0.0,1.0,0.0,0.0,40.88,medium
+01KQ8D9A06510DD623EFB1A6,Aegis / Pinnacle Insurance - Detect Roadmap Review,external,Compliance & Audit Readiness,0.4798,0.0,0.0,1.0,1.0,0.0,40.39,medium
+01KQ77F2867FC54E13A8C495,Aegis / Brightpath Commerce - Detect Module Deployment,external,Product Roadmap & Engineering Execution,0.4091,0.0,0.0,1.0,1.0,0.0,38.27,low
+01KQ1267C6AA7D9B3125FEC8,SOC 2 Audit Preparation - Internal,internal,Compliance & Audit Readiness,0.5351,0.0,0.0,1.0,0.5,0.0,37.05,low
+01KQ5D47170D4828E89EDE37,Support Case #7537 - Forge Industries Detect Recovery Confirmation,support,Support Troubleshooting & Case Resolution,0.4762,0.0,0.0,1.0,0.5,0.0,35.29,low
+01KQ38FE02AEE5AA5157F042,Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue,support,Support Troubleshooting & Case Resolution,0.4625,0.0,1.0,0.0,0.5,0.0,34.88,low
+01KQC3A2EBC501837E973B16,Aegis / Frostbyte AI - Identity Module Setup,external,"Identity, Access & Provisioning",0.2143,1.0,0.0,0.0,0.5,0.0,33.43,low
+01KQ7B802912366FC0A24D4F,All Hands - April Update,internal,Support Troubleshooting & Case Resolution,0.5196,0.0,0.0,1.0,0.0,0.0,31.59,low
+01KQ4EE836687F95080D92AB,Detect Team - Sprint Planning,internal,Product Roadmap & Engineering Execution,0.5,0.0,0.0,1.0,0.0,0.0,31.0,low
+01KQ45C0AD36B351A3571940,Aegis / Silverline Brands - Comply v2 Early Access Demo,external,Compliance & Audit Readiness,0.1276,1.0,0.0,0.0,0.5,0.0,30.83,low
+01KQB95605C6F873C6036285,Aegis / Forge Industries - PCI DSS Compliance Review,external,Compliance & Audit Readiness,0.1547,0.0,0.0,1.0,1.0,0.0,30.64,low
+01KQ3C837D7EF689408DCF95,Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector,support,Support Troubleshooting & Case Resolution,0.4474,0.0,0.0,1.0,0.0,0.0,29.42,low
+01KQ560FF1570C5E7F71D752,Aegis / Coastal Living Co - Protect Module Expansion,external,Support Troubleshooting & Case Resolution,0.2065,0.0,1.0,0.0,0.5,0.0,27.2,low
+01KQCF9872BF130D33B1B5EC,Comply v2 - Launch Day Checklist,internal,Support Troubleshooting & Case Resolution,0.1744,0.0,0.0,1.0,0.5,0.0,26.23,low
+01KQ41FB5CCFD9EA583FB020,Aegis / Harborview Banking - Threat Detection Tuning,external,Security Monitoring & Threat Detection,0.5064,0.0,0.0,0.0,1.0,0.0,25.19,low
+01KQ25D8AED944B5D2A9FF60,Support Case #1514 - Meridian Capital Granular Restore Request,support,Support Troubleshooting & Case Resolution,0.5,0.0,0.0,0.0,1.0,0.0,25.0,low
+01KQ5F364545B542671FF9CE,Support Case #3546 - Meridian Capital SCIM Provisioning Request,support,Support Troubleshooting & Case Resolution,0.4756,0.0,0.0,0.0,1.0,0.0,24.27,low
+01KQA502E222E2A60330237B,Aegis / Pineridge Systems - Q1 Business Review,external,"Renewal, Pricing & Commercial Negotiation",0.0682,1.0,0.0,0.0,0.0,0.0,24.05,low
+01KQ51DC4345D9DAE005678C,Aegis / Redwood Clinical - Product Feedback Session,external,Compliance & Audit Readiness,0.4512,0.0,0.0,0.0,1.0,0.0833,24.04,low
+01KQF9600A904ADE8605B3F0,Detect Team - Reliability Sprint Retro,internal,Incident Response & Outage Management,0.1666,0.0,0.0,1.0,0.0,0.0,21.0,low
+01KQ0CAE7F064EC93F0540CA,Weekly Engineering Standup,internal,Product Roadmap & Engineering Execution,0.5,0.0,0.0,0.0,0.5,0.0,20.0,low
+01KQ5BB8521F99E55470206E,Detect Team - Sprint Planning,internal,Support Troubleshooting & Case Resolution,0.5,0.0,0.0,0.0,0.5,0.0,20.0,low
+01KQ9A6BE09D73A9BB5798C7,Support Case #3615 - Nimbus Platform Custom Report Request,support,Support Troubleshooting & Case Resolution,0.4722,0.0,0.0,0.0,0.5,0.0,19.17,low
+01KQ4D504CE09A8F6ECA1F5A,Product Sync - Identity Roadmap,internal,"Identity, Access & Provisioning",0.4651,0.0,0.0,0.0,0.5,0.0,18.95,low
+01KQB632F1ADC378C42F2C03,Support Case #7570 - Silverline Brands Comply v2 License Upgrade,support,Support Troubleshooting & Case Resolution,0.4625,0.0,0.0,0.0,0.5,0.0,18.88,low
+01KQA1AFDC1306A000B0C7D9,Aegis / Vanta Health Systems - Backup Strategy Workshop,external,Compliance & Audit Readiness,0.2,0.0,0.0,0.0,1.0,0.0,16.0,low
+01KQ5AFAE8264DDC0ED2AE7F,Aegis / Crestline Wealth - Identity Module Deployment,external,Compliance & Audit Readiness,0.1396,0.0,0.0,0.0,1.0,0.0,14.19,low
+01KQAFB8DBF6E1E2FDEF0B75,Aegis / Maplewood Goods - SOC 2 Prep Review,external,Compliance & Audit Readiness,0.1081,0.0,0.0,0.0,1.0,0.0,13.24,low
+01KQ65D43540846FA994B6C4,Aegis / Frostbyte AI - Product Feedback,external,Compliance & Audit Readiness,0.4024,0.0,0.0,0.0,0.0,0.0,12.07,low
+01KQ85D10E82A26A8F754FB8,Aegis / Bridgeport Health - Compliance Review,external,Compliance & Audit Readiness,0.2317,0.0,0.0,0.0,0.5,0.0,11.95,low
+01KQ9BB82FD97C9607D57E90,Aegis / Coastal Living Co - Onboarding Kickoff,external,Compliance & Audit Readiness,0.225,0.0,0.0,0.0,0.5,0.0,11.75,low
+01KQAC572C34475A8791F2C3,Protect Team - Quarterly Planning,ambiguous,Support Troubleshooting & Case Resolution,0.2028,0.0,0.0,0.0,0.5,0.0,11.08,low
+01KQB3B16F255B65F39597D0,Comply v2 - Design Review,internal,Compliance & Audit Readiness,0.2,0.0,0.0,0.0,0.5,0.0,11.0,low
+01KQ3BD8DEEBC7FECD107F0F,Aegis / Blackridge Investments - HIPAA Compliance Review,external,Compliance & Audit Readiness,0.1631,0.0,0.0,0.0,0.5,0.0,9.89,low
+01KQ0DFE299AC7A74E8022CA,Aegis / Redwood Clinical - ISO 27001 Preparation,external,Compliance & Audit Readiness,0.1538,0.0,0.0,0.0,0.5,0.0,9.62,low
+01KQ68FB3E9E60C4477CDAB4,Comply v2 - GA Deployment Plan,internal,Compliance & Audit Readiness,0.1538,0.0,0.0,0.0,0.5,0.0,9.62,low
+01KQ2B4878EC7B3EE5547007,Aegis / Stratos Cloud - Audit Preparation,external,Compliance & Audit Readiness,0.141,0.0,0.0,0.0,0.5,0.0,9.23,low
+01KQ54917E3931712516916D,Aegis / Nimbus Platform - Comply v2 Preview,external,Compliance & Audit Readiness,0.1326,0.0,0.0,0.0,0.5,0.0,8.98,low
+01KQ56786DD1E8A1BF174FDD,Support Case #1993 - Forge Industries Comply v2 Early Access Question,support,Support Troubleshooting & Case Resolution,0.1047,0.0,0.0,0.0,0.5,0.0,8.14,low
+01KQ9BCA1794C9472726FFAD,Comply v2 - Adoption Metrics Review,internal,Compliance & Audit Readiness,0.1463,0.0,0.0,0.0,0.0,0.0,4.39,low
+01KQ92EA85FE4C537400227D,Support Case #8811 - Blackridge Investments Custom Compliance Template,support,Support Troubleshooting & Case Resolution,0.1389,0.0,0.0,0.0,0.0,0.0,4.17,low
+01KQ4D01DCB15C69672AB5AF,Aegis / Clearwater Medical - Comply v2 Deployment Kickoff,external,Compliance & Audit Readiness,0.1023,0.0,0.0,0.0,0.0,0.0,3.07,low

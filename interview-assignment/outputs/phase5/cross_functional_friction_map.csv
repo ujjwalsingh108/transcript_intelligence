@@ -1,0 +1,19 @@
+topic,call_type,meeting_count,avg_friction_score,high_friction_meetings
+Support Troubleshooting & Case Resolution,support,27,50.1444,11
+Compliance & Audit Readiness,external,21,20.2062,1
+Incident Response & Outage Management,external,11,48.1955,3
+Incident Response & Outage Management,ambiguous,6,63.2217,4
+Compliance & Audit Readiness,internal,5,25.04,0
+"Identity, Access & Provisioning",external,4,35.1175,1
+"Identity, Access & Provisioning",internal,4,37.9075,0
+"Renewal, Pricing & Commercial Negotiation",external,4,17.92,0
+Support Troubleshooting & Case Resolution,internal,4,25.9325,0
+Incident Response & Outage Management,internal,3,32.5,0
+Platform Reliability & Performance,ambiguous,2,45.325,0
+Product Roadmap & Engineering Execution,internal,2,30.0,0
+"Renewal, Pricing & Commercial Negotiation",internal,2,33.485,0
+Compliance & Audit Readiness,ambiguous,1,14.3,0
+Product Roadmap & Engineering Execution,external,1,44.87,0
+Security Monitoring & Threat Detection,external,1,39.95,0
+Support Troubleshooting & Case Resolution,ambiguous,1,12.65,0
+Support Troubleshooting & Case Resolution,external,1,26.67,0

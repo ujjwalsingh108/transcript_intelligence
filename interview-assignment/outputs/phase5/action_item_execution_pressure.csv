@@ -1,0 +1,9 @@
+work_type,action_item_count,avg_meeting_negative_ratio,avg_meeting_sentiment_score,urgency_share,execution_pressure_score,dominant_functions
+technical_remediation,29,0.1926,3.3862,0.1379,52.36,engineering:27;program_management:1;customer_success_sales:1
+coordination_followup,229,0.1641,3.4624,0.1485,51.99,other:65;customer_success_sales:44;engineering:42
+analysis_reporting,30,0.1949,3.2167,0.0667,51.33,program_management:8;customer_success_sales:7;support:7
+general_followup,68,0.1879,3.3662,0.0441,50.0,other:37;customer_success_sales:20;engineering:9
+support_followup,13,0.2231,2.9154,0.0769,31.8,support:5;customer_success_sales:5;engineering:3
+compliance_followthrough,15,0.0799,4.0133,0.0,28.6,support:7;compliance_security:5;customer_success_sales:3
+commercial_followup,10,0.188,3.21,0.1,25.05,customer_success_sales:10
+customer_communication,3,0.2114,3.1667,0.0,10.6,customer_success_sales:3
