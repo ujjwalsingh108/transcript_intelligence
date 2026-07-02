@@ -1,0 +1,5 @@
+call_type,meeting_count,avg_summary_sentiment_score,avg_utt_composite_score,avg_utt_positive_ratio,avg_utt_negative_ratio,negative_dominant_meetings,consistency_strong_match_share
+ambiguous,10,2.74,2.574,0.1515,0.3644,7,0.9
+external,43,3.7116,3.5541,0.4135,0.1364,14,0.7442
+internal,20,3.765,3.3356,0.2395,0.0718,5,0.4
+support,27,2.937,2.7395,0.1008,0.2311,16,0.6667
