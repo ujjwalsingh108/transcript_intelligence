@@ -1,0 +1,17 @@
+{
+  "meetings_total": 100,
+  "label_counts": {
+    "ambiguous": 10,
+    "support": 27,
+    "internal": 20,
+    "external": 43
+  },
+  "ambiguous_count": 10,
+  "ambiguous_share": 0.1,
+  "confidence_summary": {
+    "min": 0.6,
+    "max": 0.99,
+    "avg": 0.941
+  },
+  "rules_note": "Deterministic weighted rules over title/domain/topics/summary with explicit ambiguity gating."
+}
