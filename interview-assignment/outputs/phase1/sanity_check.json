@@ -1,0 +1,22 @@
+{
+  "meeting_count": 100,
+  "missing_file_counts": {},
+  "null_field_counts": {},
+  "participants_summary": {
+    "min": 2,
+    "max": 5,
+    "avg": 3.11
+  },
+  "utterance_summary": {
+    "meetings_with_zero_utterances": 0,
+    "total_utterances": 4313
+  },
+  "overall_sentiment_distribution": {
+    "mixed-negative": 33,
+    "mixed-positive": 33,
+    "very-positive": 21,
+    "negative": 4,
+    "very-negative": 2,
+    "positive": 7
+  }
+}
