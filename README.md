@@ -123,11 +123,3 @@ Primary outputs:
 
 Why this matters:
 - Adds prioritization signals leadership can actually operate on week to week.
-
-## Final presentation artifacts
-
-To support the take-home presentation and walkthrough:
-- interview-assignment/outputs/final/Executive_Summary.md
-- interview-assignment/outputs/final/Slide_Outline_30min.md
-
-These files provide a complete narrative for a 30-minute presentation plus Q&A support.
